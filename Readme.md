@@ -2,7 +2,7 @@ Desafio Academina Capgemini
 
 ### Pré-requisitos
 
-Necessario instalção do [VSCode](https://code.visualstudio.com/) e/ou IDE Python.
+Necessario instalação do [VSCode](https://code.visualstudio.com/) e/ou IDE Python.
 
 ### Descrição
 
